@@ -1,2 +1,0 @@
-# getriebetechnik
-getriebetechnik
